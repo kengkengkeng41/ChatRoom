@@ -1,0 +1,4 @@
+ChatRoom_Android是Android Studio的项目文件，是安卓客户端项目
+ChatRoom_WebDeployed是Web服务器上部署的应用文件夹
+ChatRoom_WebProject 是Eclipse的项目文件，是服务器端项目
+打开项目之前可将文件夹名称下划线及其后面的字符删掉，以避免名称上的不匹配。
